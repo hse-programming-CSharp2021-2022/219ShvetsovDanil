@@ -1,0 +1,15 @@
+/Users/shvetsovdanil/Desktop/git_projects/01_module/03_seminar/class_work/loops/bin/Debug/net5.0/loops.deps.json
+/Users/shvetsovdanil/Desktop/git_projects/01_module/03_seminar/class_work/loops/bin/Debug/net5.0/loops.runtimeconfig.json
+/Users/shvetsovdanil/Desktop/git_projects/01_module/03_seminar/class_work/loops/bin/Debug/net5.0/loops.runtimeconfig.dev.json
+/Users/shvetsovdanil/Desktop/git_projects/01_module/03_seminar/class_work/loops/bin/Debug/net5.0/loops.dll
+/Users/shvetsovdanil/Desktop/git_projects/01_module/03_seminar/class_work/loops/bin/Debug/net5.0/ref/loops.dll
+/Users/shvetsovdanil/Desktop/git_projects/01_module/03_seminar/class_work/loops/bin/Debug/net5.0/loops.pdb
+/Users/shvetsovdanil/Desktop/git_projects/01_module/03_seminar/class_work/loops/obj/Debug/net5.0/loops.csproj.AssemblyReference.cache
+/Users/shvetsovdanil/Desktop/git_projects/01_module/03_seminar/class_work/loops/obj/Debug/net5.0/loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shvetsovdanil/Desktop/git_projects/01_module/03_seminar/class_work/loops/obj/Debug/net5.0/loops.AssemblyInfoInputs.cache
+/Users/shvetsovdanil/Desktop/git_projects/01_module/03_seminar/class_work/loops/obj/Debug/net5.0/loops.AssemblyInfo.cs
+/Users/shvetsovdanil/Desktop/git_projects/01_module/03_seminar/class_work/loops/obj/Debug/net5.0/loops.csproj.CoreCompileInputs.cache
+/Users/shvetsovdanil/Desktop/git_projects/01_module/03_seminar/class_work/loops/obj/Debug/net5.0/loops.dll
+/Users/shvetsovdanil/Desktop/git_projects/01_module/03_seminar/class_work/loops/obj/Debug/net5.0/ref/loops.dll
+/Users/shvetsovdanil/Desktop/git_projects/01_module/03_seminar/class_work/loops/obj/Debug/net5.0/loops.pdb
+/Users/shvetsovdanil/Desktop/git_projects/01_module/03_seminar/class_work/loops/obj/Debug/net5.0/loops.genruntimeconfig.cache
