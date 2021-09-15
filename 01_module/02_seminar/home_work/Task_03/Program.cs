@@ -38,7 +38,7 @@ namespace Task_03
                 default:
                     return "An error occured";
             }
-        }
+        } // The end of method RootsOfQuadraticEquation() definition
         
         
         static void Main(string[] args)
@@ -85,6 +85,6 @@ namespace Task_03
                 keyToExit = Console.ReadKey();
                 Console.WriteLine();
             } while (keyToExit.Key != ConsoleKey.Enter);
-        }
+        } // The end of Main() method
     }
 }
