@@ -32,7 +32,8 @@ namespace Task_03
                 }
             }
 
-            array = array[0..(array.Length - tmpVariable)];
+            var endIndex = array.Length - tmpVariable;
+            array = array[0..endIndex];
         }
 
         static void Main(string[] args)
