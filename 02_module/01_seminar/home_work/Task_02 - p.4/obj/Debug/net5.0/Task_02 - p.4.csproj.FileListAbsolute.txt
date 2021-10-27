@@ -1,0 +1,15 @@
+/Users/shvetsovdanil/Desktop/git_projects/02_module/01_seminar/home_work/Task_02 - p.4/bin/Debug/net5.0/Task_02 - p.4.deps.json
+/Users/shvetsovdanil/Desktop/git_projects/02_module/01_seminar/home_work/Task_02 - p.4/bin/Debug/net5.0/Task_02 - p.4.runtimeconfig.json
+/Users/shvetsovdanil/Desktop/git_projects/02_module/01_seminar/home_work/Task_02 - p.4/bin/Debug/net5.0/Task_02 - p.4.runtimeconfig.dev.json
+/Users/shvetsovdanil/Desktop/git_projects/02_module/01_seminar/home_work/Task_02 - p.4/bin/Debug/net5.0/Task_02 - p.4.dll
+/Users/shvetsovdanil/Desktop/git_projects/02_module/01_seminar/home_work/Task_02 - p.4/bin/Debug/net5.0/ref/Task_02 - p.4.dll
+/Users/shvetsovdanil/Desktop/git_projects/02_module/01_seminar/home_work/Task_02 - p.4/bin/Debug/net5.0/Task_02 - p.4.pdb
+/Users/shvetsovdanil/Desktop/git_projects/02_module/01_seminar/home_work/Task_02 - p.4/obj/Debug/net5.0/Task_02 - p.4.csproj.AssemblyReference.cache
+/Users/shvetsovdanil/Desktop/git_projects/02_module/01_seminar/home_work/Task_02 - p.4/obj/Debug/net5.0/Task_02 - p.4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shvetsovdanil/Desktop/git_projects/02_module/01_seminar/home_work/Task_02 - p.4/obj/Debug/net5.0/Task_02 - p.4.AssemblyInfoInputs.cache
+/Users/shvetsovdanil/Desktop/git_projects/02_module/01_seminar/home_work/Task_02 - p.4/obj/Debug/net5.0/Task_02 - p.4.AssemblyInfo.cs
+/Users/shvetsovdanil/Desktop/git_projects/02_module/01_seminar/home_work/Task_02 - p.4/obj/Debug/net5.0/Task_02 - p.4.csproj.CoreCompileInputs.cache
+/Users/shvetsovdanil/Desktop/git_projects/02_module/01_seminar/home_work/Task_02 - p.4/obj/Debug/net5.0/Task_02 - p.4.dll
+/Users/shvetsovdanil/Desktop/git_projects/02_module/01_seminar/home_work/Task_02 - p.4/obj/Debug/net5.0/ref/Task_02 - p.4.dll
+/Users/shvetsovdanil/Desktop/git_projects/02_module/01_seminar/home_work/Task_02 - p.4/obj/Debug/net5.0/Task_02 - p.4.pdb
+/Users/shvetsovdanil/Desktop/git_projects/02_module/01_seminar/home_work/Task_02 - p.4/obj/Debug/net5.0/Task_02 - p.4.genruntimeconfig.cache
