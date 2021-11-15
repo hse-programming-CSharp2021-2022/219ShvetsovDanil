@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "K6G3L1AjiZdwvtRb+PHawPt2iY0Ay319SanPMsHs+QR9jD23kdAUbpYh2iZZpR1Uw3jjFqiIY0sv+YPp5f0F9g==",
+  "success": true,
+  "projectFilePath": "/Users/shvetsovdanil/Desktop/git_projects/02_module/04_seminar/home_work/Task_03/Task_03.csproj",
+  "expectedPackageFiles": [
+    "/Users/shvetsovdanil/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/pipelines.sockets.unofficial/2.2.0/pipelines.sockets.unofficial.2.2.0.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/stackexchange.redis/2.2.88/stackexchange.redis.2.2.88.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/system.configuration.configurationmanager/5.0.0/system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/system.diagnostics.performancecounter/5.0.0/system.diagnostics.performancecounter.5.0.0.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/system.drawing.common/5.0.0/system.drawing.common.5.0.0.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/system.io.pipelines/5.0.0/system.io.pipelines.5.0.0.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/system.security.cryptography.protecteddata/5.0.0/system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/system.security.permissions/5.0.0/system.security.permissions.5.0.0.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/system.windows.extensions/5.0.0/system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
