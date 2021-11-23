@@ -1,0 +1,15 @@
+/Users/shvetsovdanil/Desktop/учеба/C# repository/home_work/Program/bin/Debug/net5.0/Program.deps.json
+/Users/shvetsovdanil/Desktop/учеба/C# repository/home_work/Program/bin/Debug/net5.0/Program.runtimeconfig.json
+/Users/shvetsovdanil/Desktop/учеба/C# repository/home_work/Program/bin/Debug/net5.0/Program.runtimeconfig.dev.json
+/Users/shvetsovdanil/Desktop/учеба/C# repository/home_work/Program/bin/Debug/net5.0/Program.dll
+/Users/shvetsovdanil/Desktop/учеба/C# repository/home_work/Program/bin/Debug/net5.0/ref/Program.dll
+/Users/shvetsovdanil/Desktop/учеба/C# repository/home_work/Program/bin/Debug/net5.0/Program.pdb
+/Users/shvetsovdanil/Desktop/учеба/C# repository/home_work/Program/obj/Debug/net5.0/Program.csproj.AssemblyReference.cache
+/Users/shvetsovdanil/Desktop/учеба/C# repository/home_work/Program/obj/Debug/net5.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shvetsovdanil/Desktop/учеба/C# repository/home_work/Program/obj/Debug/net5.0/Program.AssemblyInfoInputs.cache
+/Users/shvetsovdanil/Desktop/учеба/C# repository/home_work/Program/obj/Debug/net5.0/Program.AssemblyInfo.cs
+/Users/shvetsovdanil/Desktop/учеба/C# repository/home_work/Program/obj/Debug/net5.0/Program.csproj.CoreCompileInputs.cache
+/Users/shvetsovdanil/Desktop/учеба/C# repository/home_work/Program/obj/Debug/net5.0/Program.dll
+/Users/shvetsovdanil/Desktop/учеба/C# repository/home_work/Program/obj/Debug/net5.0/ref/Program.dll
+/Users/shvetsovdanil/Desktop/учеба/C# repository/home_work/Program/obj/Debug/net5.0/Program.pdb
+/Users/shvetsovdanil/Desktop/учеба/C# repository/home_work/Program/obj/Debug/net5.0/Program.genruntimeconfig.cache
