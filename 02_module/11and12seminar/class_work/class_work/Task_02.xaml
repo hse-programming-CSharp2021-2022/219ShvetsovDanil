@@ -1,0 +1,35 @@
+﻿<Window x:Class="class_work.Task_02"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:class_work"
+        mc:Ignorable="d"
+        Title="Task_02" Height="400" Width="600">
+    <Grid Height="180">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center">
+            <TextBlock x:Name="NameBlock" Text="Your name: Username" Height="24"
+                       HorizontalAlignment="Center" Margin="5" FontSize="14"/>
+            <TextBlock x:Name="GreetingBlock" Text="Hello, Username" Height="24"
+                       HorizontalAlignment="Center" Margin="5" FontSize="14"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center">
+            <TextBox x:Name="textBox" Text="username" Height="24"
+                       HorizontalAlignment="Center" Margin="5" FontSize="14"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button x:Name="set" Click="set_Click" Content="Set" Height="24"
+                       HorizontalAlignment="Center" Margin="5" FontSize="14"/>
+            <Button x:Name="reset" Click="reset_Click" Content="Clear" Height="24"
+                       HorizontalAlignment="Center" Margin="5" FontSize="14"/>
+        </StackPanel>
+    </Grid>
+</Window>
