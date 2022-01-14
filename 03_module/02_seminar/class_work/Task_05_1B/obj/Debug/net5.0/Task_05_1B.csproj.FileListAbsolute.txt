@@ -1,0 +1,15 @@
+/Users/shvetsovdanil/Desktop/git_projects/03_module/02_seminar/class_work/Task_05_1B/bin/Debug/net5.0/Task_05_1B.deps.json
+/Users/shvetsovdanil/Desktop/git_projects/03_module/02_seminar/class_work/Task_05_1B/bin/Debug/net5.0/Task_05_1B.runtimeconfig.json
+/Users/shvetsovdanil/Desktop/git_projects/03_module/02_seminar/class_work/Task_05_1B/bin/Debug/net5.0/Task_05_1B.runtimeconfig.dev.json
+/Users/shvetsovdanil/Desktop/git_projects/03_module/02_seminar/class_work/Task_05_1B/bin/Debug/net5.0/Task_05_1B.dll
+/Users/shvetsovdanil/Desktop/git_projects/03_module/02_seminar/class_work/Task_05_1B/bin/Debug/net5.0/ref/Task_05_1B.dll
+/Users/shvetsovdanil/Desktop/git_projects/03_module/02_seminar/class_work/Task_05_1B/bin/Debug/net5.0/Task_05_1B.pdb
+/Users/shvetsovdanil/Desktop/git_projects/03_module/02_seminar/class_work/Task_05_1B/obj/Debug/net5.0/Task_05_1B.csproj.AssemblyReference.cache
+/Users/shvetsovdanil/Desktop/git_projects/03_module/02_seminar/class_work/Task_05_1B/obj/Debug/net5.0/Task_05_1B.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shvetsovdanil/Desktop/git_projects/03_module/02_seminar/class_work/Task_05_1B/obj/Debug/net5.0/Task_05_1B.AssemblyInfoInputs.cache
+/Users/shvetsovdanil/Desktop/git_projects/03_module/02_seminar/class_work/Task_05_1B/obj/Debug/net5.0/Task_05_1B.AssemblyInfo.cs
+/Users/shvetsovdanil/Desktop/git_projects/03_module/02_seminar/class_work/Task_05_1B/obj/Debug/net5.0/Task_05_1B.csproj.CoreCompileInputs.cache
+/Users/shvetsovdanil/Desktop/git_projects/03_module/02_seminar/class_work/Task_05_1B/obj/Debug/net5.0/Task_05_1B.dll
+/Users/shvetsovdanil/Desktop/git_projects/03_module/02_seminar/class_work/Task_05_1B/obj/Debug/net5.0/ref/Task_05_1B.dll
+/Users/shvetsovdanil/Desktop/git_projects/03_module/02_seminar/class_work/Task_05_1B/obj/Debug/net5.0/Task_05_1B.pdb
+/Users/shvetsovdanil/Desktop/git_projects/03_module/02_seminar/class_work/Task_05_1B/obj/Debug/net5.0/Task_05_1B.genruntimeconfig.cache
