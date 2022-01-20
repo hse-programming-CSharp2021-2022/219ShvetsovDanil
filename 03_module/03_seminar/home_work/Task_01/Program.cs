@@ -4,7 +4,7 @@ namespace Task_01
 {
     class Program
     {
-        private static void PrintInfo(Dot A) => Console.WriteLine($"X: {A.X}\nY: {A.Y}\n");
+        private static void PrintInfo(Dot A) => Console.WriteLine($"X: {A.X:F3}\nY: {A.Y:F3}\n");
 
         static void Main(string[] args)
         {

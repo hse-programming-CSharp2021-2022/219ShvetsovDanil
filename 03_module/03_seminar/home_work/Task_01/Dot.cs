@@ -19,8 +19,8 @@ namespace Task_01
         {
             for (var i = 0; i < 10; i++)
             {
-                X = _random.Next(-10, 11);
-                Y = _random.Next(-10, 11);
+                X = _random.Next(-10, 11) + _random.NextDouble();
+                Y = _random.Next(-10, 11) + _random.NextDouble();
 
                 if (X < 0 && Y < 0)
                 {
