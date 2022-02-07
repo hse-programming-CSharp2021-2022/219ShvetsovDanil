@@ -1,0 +1,12 @@
+/Users/shvetsovdanil/Desktop/git_projects/03_module/08_seminar/home_work/HSE_CSharp_Lab_mod3_04b_Enums_DI/Task01_PizzaStuff/bin/Debug/net5.0/Task01_PizzaStuff.deps.json
+/Users/shvetsovdanil/Desktop/git_projects/03_module/08_seminar/home_work/HSE_CSharp_Lab_mod3_04b_Enums_DI/Task01_PizzaStuff/bin/Debug/net5.0/Task01_PizzaStuff.dll
+/Users/shvetsovdanil/Desktop/git_projects/03_module/08_seminar/home_work/HSE_CSharp_Lab_mod3_04b_Enums_DI/Task01_PizzaStuff/bin/Debug/net5.0/ref/Task01_PizzaStuff.dll
+/Users/shvetsovdanil/Desktop/git_projects/03_module/08_seminar/home_work/HSE_CSharp_Lab_mod3_04b_Enums_DI/Task01_PizzaStuff/bin/Debug/net5.0/Task01_PizzaStuff.pdb
+/Users/shvetsovdanil/Desktop/git_projects/03_module/08_seminar/home_work/HSE_CSharp_Lab_mod3_04b_Enums_DI/Task01_PizzaStuff/obj/Debug/net5.0/Task01_PizzaStuff.csproj.AssemblyReference.cache
+/Users/shvetsovdanil/Desktop/git_projects/03_module/08_seminar/home_work/HSE_CSharp_Lab_mod3_04b_Enums_DI/Task01_PizzaStuff/obj/Debug/net5.0/Task01_PizzaStuff.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shvetsovdanil/Desktop/git_projects/03_module/08_seminar/home_work/HSE_CSharp_Lab_mod3_04b_Enums_DI/Task01_PizzaStuff/obj/Debug/net5.0/Task01_PizzaStuff.AssemblyInfoInputs.cache
+/Users/shvetsovdanil/Desktop/git_projects/03_module/08_seminar/home_work/HSE_CSharp_Lab_mod3_04b_Enums_DI/Task01_PizzaStuff/obj/Debug/net5.0/Task01_PizzaStuff.AssemblyInfo.cs
+/Users/shvetsovdanil/Desktop/git_projects/03_module/08_seminar/home_work/HSE_CSharp_Lab_mod3_04b_Enums_DI/Task01_PizzaStuff/obj/Debug/net5.0/Task01_PizzaStuff.csproj.CoreCompileInputs.cache
+/Users/shvetsovdanil/Desktop/git_projects/03_module/08_seminar/home_work/HSE_CSharp_Lab_mod3_04b_Enums_DI/Task01_PizzaStuff/obj/Debug/net5.0/Task01_PizzaStuff.dll
+/Users/shvetsovdanil/Desktop/git_projects/03_module/08_seminar/home_work/HSE_CSharp_Lab_mod3_04b_Enums_DI/Task01_PizzaStuff/obj/Debug/net5.0/ref/Task01_PizzaStuff.dll
+/Users/shvetsovdanil/Desktop/git_projects/03_module/08_seminar/home_work/HSE_CSharp_Lab_mod3_04b_Enums_DI/Task01_PizzaStuff/obj/Debug/net5.0/Task01_PizzaStuff.pdb
