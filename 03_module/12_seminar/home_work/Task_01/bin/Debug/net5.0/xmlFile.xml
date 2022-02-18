@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<ArrayOfUniversity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <University>
+    <UniversityName>Higher school of economics</UniversityName>
+    <Departments>
+      <Department>
+        <DepartmentName>Computer science</DepartmentName>
+        <Employees>
+          <Human xsi:type="Professor">
+            <Name>Ivan Ivanov</Name>
+          </Human>
+          <Human xsi:type="Professor">
+            <Name>Petr Petrov</Name>
+          </Human>
+          <Human xsi:type="Professor">
+            <Name>Sergei Sergeev</Name>
+          </Human>
+        </Employees>
+      </Department>
+    </Departments>
+  </University>
+  <University>
+    <UniversityName>Moscow State university</UniversityName>
+    <Departments>
+      <Department>
+        <DepartmentName>Mathematics</DepartmentName>
+        <Employees>
+          <Human xsi:type="Professor">
+            <Name>Alexander Alexandrov</Name>
+          </Human>
+          <Human xsi:type="Professor">
+            <Name>John Johnson</Name>
+          </Human>
+          <Human xsi:type="Professor">
+            <Name>Andrew Andrewson</Name>
+          </Human>
+        </Employees>
+      </Department>
+    </Departments>
+  </University>
+</ArrayOfUniversity>

@@ -1,0 +1,40 @@
+[
+  {
+    "UniversityName": "Higher school of economics",
+    "Departments": [
+      {
+        "DepartmentName": "Computer science",
+        "Employees": [
+          {
+            "Name": "Ivan Ivanov"
+          },
+          {
+            "Name": "Petr Petrov"
+          },
+          {
+            "Name": "Sergei Sergeev"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UniversityName": "Moscow State university",
+    "Departments": [
+      {
+        "DepartmentName": "Mathematics",
+        "Employees": [
+          {
+            "Name": "Alexander Alexandrov"
+          },
+          {
+            "Name": "John Johnson"
+          },
+          {
+            "Name": "Andrew Andrewson"
+          }
+        ]
+      }
+    ]
+  }
+]
