@@ -70,8 +70,7 @@ namespace Task_01
             SeparateLines();
             
             Console.Write("Последовательность результата сложения чисел двух коллекций: ");
-            MergeTwoCollections(
-                fibonacciCollection.GetEnumerator(), triangleNumbersCollection.GetEnumerator(), out var mergedList);
+            MergeTwoCollections(fibonacciCollection.GetEnumerator(), triangleNumbersCollection.GetEnumerator(), out var mergedList);
             
             PrintCollectionElements(mergedList);
         }
