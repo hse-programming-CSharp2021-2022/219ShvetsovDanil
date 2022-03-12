@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RlEIOLHkwOg7GcixQCw3MfrReavQIkdoAM/NmfWVv+GZN5ZW7rVOa6KRNsYRIEAgEovDFkoKNgHeEm/JoOdUSw==",
+  "success": true,
+  "projectFilePath": "/Users/shvetsovdanil/Desktop/home_work/Task_01/Task_01.csproj",
+  "expectedPackageFiles": [
+    "/Users/shvetsovdanil/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
